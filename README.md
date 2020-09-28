@@ -9,4 +9,4 @@ Breakout board for a 1.3" 128x64 pixel SSD1306-based OLED.
 * Has M2 screw holes so you can secure it to the keyboard PCB.
 * Comes with two I2C headers so it's fully reversible.
 * There's a solder jumper on-board to bypass the LDO in case this board is being paired with a 3v3 microcontroller.
-* The [Cantaloupe Split Ergo Keyboard](https://github.com/Ariamelon/Cantaloupe) and Hami Numberpad were specially designed to use this OLED board.
+* The [Cantaloupe Split Ergo Keyboard](https://github.com/Ariamelon/Cantaloupe) and [Hami Numberpad](https://github.com/Ariamelon/Hami) were specially designed to use this OLED board.
