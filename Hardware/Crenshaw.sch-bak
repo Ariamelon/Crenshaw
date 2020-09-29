@@ -261,7 +261,7 @@ SDA
 Wire Wire Line
 	4750 2300 5050 2300
 $Comp
-L oled_ribbon_connectors:SSD1306_ribbon P1
+L Crenshaw:SSD1306_ribbon P1
 U 1 1 5F81EB0E
 P 1350 2700
 F 0 "P1" V -387 2687 60  0000 C CNN
