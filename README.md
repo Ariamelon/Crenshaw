@@ -1,6 +1,8 @@
 # Crenshaw
 Breakout board for a 1.3" 128x64 pixel SSD1306-based OLED.
 
+![Crenshaw Back Render](Hardware/Images/Render_Back.png)
+
 ## Disclaimer
 [This blog post](https://vivonomicon.com/2018/04/20/diy-oled-display-boards-ssd1306-and-ssd1331/) and [this datasheet](https://www.vishay.com/docs/37902/oled128o064dbpp3n00000.pdfwas) were heavily referenced during the creation of this breakout PCB.
 
