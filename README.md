@@ -11,4 +11,5 @@ Breakout board for a 1.3" 128x64 pixel SSD1306-based OLED.
 * There's a solder jumper on-board to bypass the LDO in case this board is being paired with a 3v3 microcontroller.
 * The [Galia](https://github.com/Ariamelon/Galia), [Cantaloupe](https://github.com/Ariamelon/Cantaloupe) and [Hami](https://github.com/Ariamelon/Hami) were specially designed to use this OLED board.
 
+![Crenshaw Photo1](Images/Photo1.png)
 ![Crenshaw Front Render](Images/Render_Front.png)
