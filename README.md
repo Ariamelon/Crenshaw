@@ -19,3 +19,4 @@ Video: https://youtu.be/gXqI3UjQNgo
 * 27/09/2020: Initial commit.
 * 29/09/2020: D1 SOD323 switched to SOD123.
 * 30/09/2020: Updated to V1.1. Fixed orientation of I2C headers, increased silkscreen text size, moved ribbon cable connector further towards center of board.
+* 11/11/2020: Updated to V1.2. Slightly increased size. Moved ribbon cable connector away from center of board as it was causing issues where it was. Spread components apart to allow for easier soldering.
