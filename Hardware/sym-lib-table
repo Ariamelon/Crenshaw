@@ -1,5 +1,0 @@
-(sym_lib_table
-  (lib (name SSD1306_SPI_Breakout-rescue)(type Legacy)(uri ${KIPRJMOD}/SSD1306_SPI_Breakout-rescue.lib)(options "")(descr ""))
-  (lib (name oled_ribbon_connectors)(type Legacy)(uri E:/Documents/GitHub/OLED_test_boards/libraries/oled_ribbon_connectors.lib)(options "")(descr ""))
-  (lib (name Crenshaw)(type Legacy)(uri ${KIPRJMOD}/Crenshaw.lib)(options "")(descr ""))
-)

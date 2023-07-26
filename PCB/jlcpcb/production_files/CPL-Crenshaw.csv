@@ -1,0 +1,4 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+H1,OLED,OLED_1.5_SSD1351_128x128_NoHoles,47.75,-40.5375,0.0,top
+J1,In,HRS_FH34SRJ-30S-0.5SH(50),47.75,-36.5,0.0,bottom
+J2,Out,HRS_FH34SRJ-30S-0.5SH(50),47.75,-48.5375,180.0,bottom
