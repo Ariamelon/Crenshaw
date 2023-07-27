@@ -1,4 +1,4 @@
-23162668434556507
+23169430206732101
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -50274,12 +50274,40 @@ Mounting Hole 1.152mm, no annular
 0
 0
 Crenshaw
-OLED_1.5_SSD1351_128x128_NoHoles
+OLED_1.5_SSD1351_128x128
 SSD1351 OLED header with mounting holes
 Through hole pin header THT 1x07 2.54mm single row
 0
-4
-1
+11
+8
+Crenshaw
+vik-logo-large
+
+
+0
+0
+0
+Crenshaw
+vik-logo-medium
+
+
+0
+0
+0
+Crenshaw
+vik-logo-small
+
+
+0
+0
+0
+Crenshaw
+vik-module-connector-horizontal
+
+
+0
+14
+13
 Crystal
 Crystal_AT310_D3.0mm_L10.0mm_Horizontal
 Crystal THT AT310 10.0mm-10.5mm length 3.0mm diameter http://www.cinetech.com.tw/upload/2011/04/20110401165201.pdf
