@@ -1,5 +1,5 @@
 # Crenshaw
-[VIK](https://github.com/sadekbaroudi/vik)-compatible breakout board for a 1.5" SSD1351 RGB OLED.
+1.5" SSD1351 RGB OLED [VIK](https://github.com/sadekbaroudi/vik) module.
 
 ## Disclaimer
 This board is licensed under CC BY 4.0.
@@ -18,10 +18,12 @@ This board is licensed under CC BY 4.0.
 | Uses: RGB               | Optional                | :x:                |
 | Uses: Extra GPIO 1      | Optional                | :heavy_check_mark: |
 | Uses: Extra GPIO 2      | Optional                | :heavy_check_mark: |
+| Standard PCB Size/Mount | Strongly Recommended    | :x:                |
 
 ![Render](Showcase/Render.png)
 
 ## Changelog
+* 28/07/2023: Added pin labels. Added VIK size row to certification card.
 * 27/07/2023: Added voltage regulator, SSD1351 supporting circuitry and [VIK](https://github.com/sadekbaroudi/vik) connector. Added license. Added metadata to schematic and board files. Added VIK module certification card.
 * 26/07/2023: Updated to V2.0.
 * 11/11/2020: Updated to V1.2. Slightly increased size. Moved ribbon cable connector away from center of board as it was causing issues where it was. Spread components apart to allow for easier soldering.
