@@ -1,0 +1,26 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100n,C_0402_1005Metric,47.6,-40.7,0.0,bottom
+C2,10u,C_0603_1608Metric,47.1,-39.4,0.0,bottom
+C3,1u,C_0603_1608Metric,50.4,-37.8,180.0,bottom
+C4,1u,C_0603_1608Metric,50.4,-39.4,180.0,bottom
+C5,1u,C_0603_1608Metric,60.0,-39.8,90.0,bottom
+C6,100n,C_0402_1005Metric,61.7,-40.7,180.0,bottom
+C7,1u,C_0603_1608Metric,62.3,-39.4,180.0,bottom
+C8,4u7,C_0603_1608Metric,41.05,-32.700001,90.0,bottom
+C9,22p,C_0402_1005Metric,47.75,-34.400001,180.0,bottom
+C10,4u7,C_0603_1608Metric,47.55,-33.100001,180.0,bottom
+C11,1u,C_0402_1005Metric,54.499999,-30.3,180.0,bottom
+C12,1u,C_0402_1005Metric,56.9,-33.1,90.0,bottom
+D1,1N4148,D_SOD-323,54.0,-40.3,0.0,bottom
+D2,1N4148,D_SOD-323,54.0,-38.3,180.0,bottom
+D3,1N5819WS,D_SOD-323,47.4,-30.1,0.0,bottom
+J1,OLED_Breakout,OLED_1.5_SSD1351_128x128,55.0,-40.0,0.0,top
+J2,SSD1351,Hirose_FH12-30S-0.5SH_1x30-1MP_P0.50mm_Horizontal,55.0,-44.35,0.0,bottom
+J3,VIK Module,vik-module-connector-horizontal,68.8,-39.5,270.0,bottom
+L1,10u,L_Sunlord_SWPA3012S,43.9,-29.400001,0.0,bottom
+R1,51,R_0402_1005Metric,50.4,-40.7,0.0,bottom
+R2,560k,R_0603_1608Metric,58.2,-39.8,90.0,bottom
+R4,1M,R_0402_1005Metric,47.75,-35.400001,180.0,bottom
+R5,100k,R_0402_1005Metric,44.4,-35.400001,0.0,bottom
+U1,TPS61040DBV,SOT-23-5,43.9,-33.0,270.0,bottom
+U2,XC6206P332MR,SOT-23,54.399999,-32.6,180.0,bottom
