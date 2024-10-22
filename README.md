@@ -2,7 +2,7 @@
 1.5" SSD1351 RGB OLED [VIK](https://github.com/sadekbaroudi/vik) module.
 
 ## Disclaimer
-This board is licensed under CC BY 4.0.
+This board is licensed under CERN-OHL-S-2.0.
 
 ## VIK module certification card
 
@@ -23,6 +23,7 @@ This board is licensed under CC BY 4.0.
 ![Render](Showcase/Render.png)
 
 ## Changelog
+ * 22/10/2024: License updated to CERN-OHL-S-2.0.
 * 04/08/2023: Changed VIK and OLED FFC to FH12. Stitched ground planes together. Fixed VIK footprint. Moved production files to easier to access location.
 * 28/07/2023: Added pin labels. Added VIK size row to certification card.
 * 27/07/2023: Added voltage regulator, SSD1351 supporting circuitry and [VIK](https://github.com/sadekbaroudi/vik) connector. Added license. Added metadata to schematic and board files. Added VIK module certification card.
